@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="KotlinJavaScript" type="repository">
+    <properties maven-id="org.jetbrains.kotlin:kotlin-stdlib-js:1.8.21" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
